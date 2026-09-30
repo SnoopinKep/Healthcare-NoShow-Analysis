@@ -1,3 +1,4 @@
+<img width="1955" height="1078" alt="dashboard_preview" src="https://github.com/user-attachments/assets/e8d0369e-57f5-4622-b5ba-5abca446f487" />
 # Hospital Appointment No-Show Optimization Dashboard
 
 ## 📌 Project Overview
