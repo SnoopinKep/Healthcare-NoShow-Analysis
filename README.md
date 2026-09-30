@@ -25,6 +25,7 @@ By analyzing patient records across demographics and logistics, the final dashbo
 ---
 
 ## 🚀 Step-by-Step Project Pipeline
+View the full data cleansing script here: [data_cleaning.py](data_cleaning.py)
 
 ### Phase 1: Python Data Cleansing
 The raw EHR data contained processing anomalies, negative ages, and raw unformatted string dates. A custom script handled:
